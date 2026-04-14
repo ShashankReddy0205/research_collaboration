@@ -1,0 +1,26 @@
+[
+    {
+        "id": "u1",
+        "name": "Dr. Alice Smith",
+        "email": "alice@admin.edu",
+        "password": "password123",
+        "role": "admin",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alice"
+    },
+    {
+        "id": "u2",
+        "name": "Dr. Bob Jones",
+        "email": "bob@research.edu",
+        "password": "password123",
+        "role": "researcher",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Bob"
+    },
+    {
+        "id": "u3",
+        "name": "Charlie Brown",
+        "email": "charlie@research.edu",
+        "password": "password123",
+        "role": "researcher",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Charlie"
+    }
+]
