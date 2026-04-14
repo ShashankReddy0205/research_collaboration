@@ -1,0 +1,26 @@
+[
+    {
+        "id": "m1",
+        "projectId": "p1",
+        "title": "Literature Review Completion",
+        "dueDate": "2026-02-15",
+        "status": "completed",
+        "assignedTo": "u2"
+    },
+    {
+        "id": "m2",
+        "projectId": "p1",
+        "title": "Initial Algorithm Design",
+        "dueDate": "2026-03-01",
+        "status": "in_progress",
+        "assignedTo": "u1"
+    },
+    {
+        "id": "m3",
+        "projectId": "p2",
+        "title": "Data Collection Phase",
+        "dueDate": "2025-12-01",
+        "status": "completed",
+        "assignedTo": "u3"
+    }
+]
