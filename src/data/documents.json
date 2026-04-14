@@ -1,0 +1,29 @@
+[
+    {
+        "id": "d1",
+        "projectId": "p1",
+        "title": "Initial Quantum Algorithms Review.pdf",
+        "author": "u1",
+        "size": "2.4 MB",
+        "uploadDate": "2026-01-12T09:00:00Z",
+        "status": "approved"
+    },
+    {
+        "id": "d2",
+        "projectId": "p1",
+        "title": "Error Rates Data.xlsx",
+        "author": "u2",
+        "size": "1.1 MB",
+        "uploadDate": "2026-01-15T11:30:00Z",
+        "status": "pending_review"
+    },
+    {
+        "id": "d3",
+        "projectId": "p2",
+        "title": "Machine Learning Model Architecture.docx",
+        "author": "u3",
+        "size": "5.6 MB",
+        "uploadDate": "2025-11-20T14:45:00Z",
+        "status": "approved"
+    }
+]
