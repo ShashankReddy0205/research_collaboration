@@ -1,0 +1,35 @@
+[
+    {
+        "id": "p1",
+        "title": "Quantum Computing Advances",
+        "description": "Research on error correction in quantum algorithms.",
+        "status": "active",
+        "members": [
+            "u1",
+            "u2"
+        ],
+        "createdAt": "2026-01-10T10:00:00Z"
+    },
+    {
+        "id": "p2",
+        "title": "AI in Healthcare",
+        "description": "Analyzing machine learning models for early disease detection.",
+        "status": "completed",
+        "members": [
+            "u1",
+            "u3"
+        ],
+        "createdAt": "2025-11-15T09:30:00Z"
+    },
+    {
+        "id": "p3",
+        "title": "Renewable Energy Optimization",
+        "description": "Optimizing solar panel efficiency using new nanomaterials.",
+        "status": "pending",
+        "members": [
+            "u2",
+            "u3"
+        ],
+        "createdAt": "2026-02-01T14:20:00Z"
+    }
+]
