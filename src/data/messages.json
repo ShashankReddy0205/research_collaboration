@@ -1,0 +1,23 @@
+[
+    {
+        "id": "msg1",
+        "projectId": "p1",
+        "senderId": "u1",
+        "message": "Welcome to the Quantum Computing Advances project! Please review the initial algorithms document.",
+        "timestamp": "2026-01-12T09:15:00Z"
+    },
+    {
+        "id": "msg2",
+        "projectId": "p1",
+        "senderId": "u2",
+        "message": "Thanks! I'll take a look and get back to you by tomorrow.",
+        "timestamp": "2026-01-12T10:05:00Z"
+    },
+    {
+        "id": "msg3",
+        "projectId": "p2",
+        "senderId": "u3",
+        "message": "The final machine learning model architecture has been uploaded for approval.",
+        "timestamp": "2025-11-20T14:50:00Z"
+    }
+]
